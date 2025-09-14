@@ -2,8 +2,8 @@
 https://vibe-art.myportfolio.com/008-microcosmos-ritual
 
 ## RITES OF PASSAGE OF THE MICROCOSMOS: SYMBIOTIC ART WITH MICROBES
-Masa, o3, GPT-5 and Notebook LM
-2025
+- Masa, o3, GPT-5 and Notebook LM
+- 2025
 
 この作品は、微生物との共生体験を通じて、人間と自然の境界を問い直す参加型アートです。
 参加者は仮想空間で発酵食品を育み、微生物の活動が織りなす「見えない他者性」に触れます。
